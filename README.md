@@ -1,6 +1,6 @@
 # gitExample
 
-this is new line
+this is first line
 
 This is second line
 
